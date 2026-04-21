@@ -1,5 +1,8 @@
 # Stephen Curry Postseason Statistical Analysis
 
+Used CHat gpt and CLaude for some assistance
+
+
 ## Overview
 
 This project analyzes Stephen Curry's NBA postseason game-by-game performance across **9 playoff seasons** (2013–2023), covering **147 individual games**. The analysis covers data ingestion and cleaning, dplyr-style manipulation, descriptive statistics, hypothesis testing, linear regression, and four ggplot2-style visualizations.
